@@ -18,7 +18,7 @@ const Values = () => {
          
         <div className="v-left flexCenter">
           <div className="image-container">
-            <img src="../../public/value.png" alt="" />
+            <img src="../../public/value.png" alt="value img" />
           </div>
         
         </div>
